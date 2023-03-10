@@ -1,0 +1,13 @@
+	
+	* Analyse de la forme :
+
+-- Target value : Survived
+-- Nombre de lignes et de colonnes : (891, 12)
+-- Types de variables : 2 var quantitatives et 8 var qualitatives 
+-- Identification des valeurs manquantes : La variable cabin est la var ayant le plus de valeurs manquantes avec un taux de 77% de var manquantes
+
+	* Analyse du fond
+
+-- Visualisation de la target : il y'a plus de morts que de survivants
+-- Visualisation de la target en fonction de la classe de voyage : la plupart des survivants ont voyagé en class 1
+-- Compréhension des différentes variables : 
